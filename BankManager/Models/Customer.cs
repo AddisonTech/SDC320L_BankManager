@@ -1,8 +1,8 @@
 /*
  * Name:    Addison Smith (addsmi1720)
- * Date:    11/15/2026
+ * Date:    11/22/2026
  * Course:  SDC320L Advanced Object-Oriented Programming Using C# Lab
- * Project: Cedar Ledger Bank Account Manager - Week 1
+ * Project: Cedar Ledger Bank Account Manager - Week 2
  *
  * Purpose: Customer is the COMPOSITION class. A customer is built from
  *          other objects: one Address and a list of Accounts. The customer
